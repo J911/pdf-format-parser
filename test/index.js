@@ -6,5 +6,5 @@ fs.readFile('./hello.pdf', (err, data) => {
 
     console.log('Header:', pf.Header)
     console.log('File Trailer: ', pf.FileTrailer)
-    console.log('File Trailer: ', pdfFormatParser.getCrossReferenceTable(data))
+    console.log('Cross Reference Table: ', pdfFormatParser.getCrossReferenceTable(data))
 })
