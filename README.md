@@ -1,4 +1,5 @@
 # PDF-FORMAT-PARSER
+Modules for classifying pdf for format
 
 ## Install
 ```
@@ -25,3 +26,6 @@ return Obj Contents:
     FileTrailer
 }
 ```
+
+## License
+MIT

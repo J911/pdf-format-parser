@@ -1,6 +1,6 @@
 {
   "name": "pdf-format-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -15,6 +15,11 @@
     "type": "git",
     "url": "git+https://github.com/J911/pdf-format-parser.git"
   },
+  "keywords": [
+    "pdf",
+    "format",
+    "parser"
+  ],
   "author": "Jay <fb.jaemin@gmail.com> (https://github.com/J911)",
   "license": "MIT",
   "bugs": {
